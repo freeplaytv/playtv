@@ -1524,15 +1524,15 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT1",,Monomax1 tv
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",,Monomax1 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://tv.123tv.to/
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130731
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT1",,Monomax1 tv
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",,Monomax1 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://tv.123tv.to/
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130732
-#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT1",Monomax2 tv
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://tv.123tv.to/
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130723
@@ -1551,12 +1551,12 @@ http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130735
 
 
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT1",,Monomax1 ts
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",,Monomax1 ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660493&extension=ts
 
-#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT1",Monomax2 ts
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660492&extension=ts
@@ -1612,10 +1612,16 @@ http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115798&extension=
 #EXTVLCOPT:http-referrer=http://tbtv.me:2095/
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115446&extension=ts
 
-#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://www.golfplusvr.com/images/golf-plus-tour.png" group-title="⚽SPORT1",GOLF+ (ts)
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://www.golfplusvr.com/images/golf-plus-tour.png" group-title="⚽SPORT1",GOLF AIS RErun (ts)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://tbtv.me:2095/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115446&extension=ts
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115510&extension=ts
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://storage.googleapis.com/fastwork-asset/subcategory_images/th/cover/tutor/tennis-training.jpg" group-title="⚽SPORT1",TENNIS (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tbtv.me:2095/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115805&extension=ts
+
 
 
 #--------------------------------------------------------------------------------------------------#
@@ -1679,8 +1685,6 @@ https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chun
 #EXTVLCOPT:http-referrer=https://www.thaipbs.or.th/live
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8
 
-
-
 #EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/thairathtv.png",ThairathTV
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.jee-ott/.xyz
@@ -1712,6 +1716,10 @@ https://live-us1.thaimomo.com/live-as/chmono29-2/chunklist_w720768414.m3u8
 #EXTVLCOPT:http-referrer=
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/14.m3u8
 
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/mono29.png",MONO29 ts
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115728&extension=ts
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/onehd.png",ONED
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -2170,8 +2178,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458756&ext
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/True_X-zyte.png" group-title="🐘สารคดี",True Xzyte
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/129.m3u8
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=116072&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="🐘สารคดี",WildEarth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
