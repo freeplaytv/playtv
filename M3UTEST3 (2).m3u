@@ -1664,39 +1664,40 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458656&ext
 
 #--------------------------------------------------------------------------------------------------#
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein1
+#EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein1
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein2
+#EXTINF:-1 tvg-id="bein2" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein3
+#EXTINF:-1 tvg-id="bein3" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein3
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein4
+#EXTINF:-1 tvg-id="bein4" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein4
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein7
+#EXTINF:-1 tvg-id="bein7" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein7
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein8
+#EXTINF:-1 tvg-id="bein8" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein8.m3u8
 
 #--------------------------------------------------------------------------------------------------#
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN SPORT 4K AR 
+
+#EXTINF:-1 tvg-id="bein4k" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN SPORT 4K AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1851249&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN 1 SPORT AR
+#EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN 1 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806584&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN2 SPORT AR
+#EXTINF:-1 tvg-id="bein2" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN2 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806581&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN3 SPORT AR
+#EXTINF:-1 tvg-id="bein3" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN3 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806580&extension=ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN6 SPORT AR
+#EXTINF:-1 tvg-id="bein6" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN6 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806577&extension=ts
 
