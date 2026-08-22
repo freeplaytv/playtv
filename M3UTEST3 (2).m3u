@@ -1534,15 +1534,16 @@
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660493&extension=ts
 
-#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",,Monomax1 tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=hhttps://dootvz.ddns.net/
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/228610.m3u8
-
 #EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660492&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",,Monomax1 tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=hhttps://dootvz.ddns.net/
+http://dootvz.ddns.net:25461/live/skycos3/aa2233/228610.m3u8
 
 #EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1631,8 +1632,35 @@ http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115533.m3u8
 #EXTVLCOPT:http-referrer=http://45.139.122.199/
 http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115533.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="⚽SPORT1",TNT SPORT1 (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458678&extension=ts
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="⚽SPORT1",TNT SPORT2 (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458666&extension=ts
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="⚽SPORT1",TNT SPORT3 (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458665&extension=ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.pitch.co.uk/wp-content/uploads/2023/12/TNT-Sports-Logo.png" group-title="⚽SPORT1",TNT SPORT4 (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458815&extension=ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png" group-title="⚽SPORT1",SKY SPORTS FOOTBALL (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458674&extension=ts
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/lnd1p01502554851.png" group-title="⚽SPORT1",SKY SPORTS (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458656&extension=ts
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -1772,7 +1800,17 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------#
 
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg" group-title="⚽SPORT3",MUTV UK (MAC)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458773&extension=ts
 
+#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg" group-title="⚽SPORT3",MUTV UK (ts)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458772&extension=ts
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png" group-title="⚽SPORT3",LFC UK (MAC)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458786&extension=ts
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2020/06/Liverpool-emblem.png" group-title="⚽SPORT3",LFC UK (ts)
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458774&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="⚽SPORT3",ASTRO 1 MY (MAC)
@@ -1925,7 +1963,6 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&
 
 #EXTINF:-1 tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-icon.png" group-title="⚽SPORT3",CFC TV (MAC)
 http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=45327&extension=ts
-
 
 
 
