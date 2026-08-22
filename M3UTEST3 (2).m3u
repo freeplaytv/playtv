@@ -2198,5 +2198,15 @@ http://49.0.64.96:8007/WSCI
 
 
 
+#EXTINF:-1 group-title="Setting" tvg-logo="https://img2.imgbiz.com/imgbiz/IMG_2404.png", สแกน QR กลุ่มเฟสบุ๊ค
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://raw.githubusercontent.com/Nebiela/Nebiela/refs/heads/main/New%20folder/Video%20qr%20iptv.mp4
 
+
+#EXTINF:-1 tvg-logo="https://godreamcast.com/blog/wp-content/uploads/2022/06/Live-Streaming-vs.-Live-Broadcasting.png" group-title="Setting" ,By Lnwiptv999
+http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.nextpit.com/img/Telegram.jpg" group-title="Setting" , กลุ่ม  Telegram
+https://t.me/Androidstvthai/
 
