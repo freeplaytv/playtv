@@ -1633,68 +1633,44 @@ http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115533.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/go2hjy1736150900.png" group-title="⚽SPORT1", True Premier Football 3 ถ่ายทอดสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/go2hjy1736150900.png" group-title="⚽SPORT1", True Premier Football 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w8p0km1736150912.png" group-title="⚽SPORT1", True Premier Football 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w8p0km1736150912.png" group-title="⚽SPORT1", True Premier Football 4 ถ่ายทอดสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ze6sbm1736150923.png" group-title="⚽SPORT1", True Premier Football 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn1.googlecdnforstreaming.live/live/tpf5/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ze6sbm1736150923.png" group-title="⚽SPORT1", True Premier Football 5 ถ่ายทอดสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/tpf5/playlist.m3u8
-
 
 #--------------------------------------------------------------------------------------------------#
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein1
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein1
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein2
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein2
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein3
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein4
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein4
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein4.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein7
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein7
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein7.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/36/2/bein-sports-logo-png_seeklogo-367812.png" group-title="⚽SportBein",bein8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein8.m3u8
 
 #--------------------------------------------------------------------------------------------------#
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein1 th
-#EXTVLCOPT:http-referrer=https://movieproxy.tawatchai250958.workers.dev/
-https://movieproxy.tawatchai250958.workers.dev/watch?id=bein1
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein2 th
-#EXTVLCOPT:http-referrer=https://movieproxy.tawatchai250958.workers.dev/
-https://movieproxy.tawatchai250958.workers.dev/watch?id=bein2
-#EXTINF:-1 tvg-id="" tvg-logo="https://img1.pic.in.th/images/unnamed3c4ee5a9a2528a78.webp" group-title="⚽SportBein",bein3 th
-#EXTVLCOPT:http-referrer=https://movieproxy.tawatchai250958.workers.dev/
-https://movieproxy.tawatchai250958.workers.dev/watch?id=bein3
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN SPORT 4K AR 
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1851249&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN 1 SPORT AR
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806584&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN2 SPORT AR
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806581&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN3 SPORT AR
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806580&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/24/2/bein-sport-1-logo-png_seeklogo-249530.png" group-title="⚽SportBein",BEIN6 SPORT AR
+#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806577&extension=ts
 
 #--------------------------------------------------------------------------------------------------#
 
