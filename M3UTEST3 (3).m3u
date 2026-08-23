@@ -1540,7 +1540,7 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660493&ext
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660492&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport_foreign/bein3.png" group-title="⚽SPORT1",,Monomax1 tv
+#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT1",,Monomax1 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://tv.123tv.to/
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130731
@@ -1551,12 +1551,12 @@ http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130731
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130726
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/sportv-logo-png_seeklogo-424355.png" group-title="⚽SPORT1",SPORTV (tv)
+#EXTINF:-1 tvg-logo="https://www.moto-moment.com/wp-content/uploads/2025/03/SPOTV-NOW-05.jpg" group-title="⚽SPORT1",SPORTV (tv) โหลดช้า
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/19091.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/42/1/sportv-logo-png_seeklogo-424355.png" group-title="⚽SPORT1",SPORTV2 (tv)
+#EXTINF:-1 tvg-logo="https://www.moto-moment.com/wp-content/uploads/2025/03/SPOTV-NOW-05.jpg" group-title="⚽SPORT1",SPORTV2 (tv) โหลดช้า
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/19092.m3u8
@@ -1567,10 +1567,10 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/19092.m3u8
 #EXTVLCOPT:http-referrer=https://d11k1mnrgfposz.cloudfront.net/
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://www.golfplusvr.com/images/golf-plus-tour.png" group-title="⚽SPORT1",GOLF AIS RErun (ts)
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/k1j2c71749974508.png" group-title="⚽SPORT1",GOLF CH uk (ts)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://tbtv.me:2095/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115510&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=425667&extension=ts
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://storage.googleapis.com/fastwork-asset/subcategory_images/th/cover/tutor/tennis-training.jpg" group-title="⚽SPORT1",TENNIS (8080)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -1628,6 +1628,24 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458674&ext
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458656&extension=ts
 
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/go2hjy1736150900.png" group-title="⚽SPORT1", True Premier Football 3 ถ่ายทอดสด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tpf3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w8p0km1736150912.png" group-title="⚽SPORT1", True Premier Football 4 ถ่ายทอดสด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tpf4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ze6sbm1736150923.png" group-title="⚽SPORT1", True Premier Football 5 ถ่ายทอดสด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/tpf5/playlist.m3u8
+
+
+
 #--------------------------------------------------------------------------------------------------#
 
 #EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein1
@@ -1664,23 +1682,23 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/32.m3u8
 
 
 #--------------------------------------------------------------------------------------------------#
-#EXTINF:-1 tvg-id="bein4k" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN SPORT Xtra
+#EXTINF:-1 tvg-id="bein4k" tvg-name="bein" tvg-logo="https://assets.goal.com/images/v3/blt0da91b1c9b8e431d/bein%20sports%20xtra%20logo.jpg" group-title="⚽SportBein",BEIN SPORT Xtra
 #EXTVLCOPT:http-referrer=https://dc1644a9jazgj.cloudfront.net/
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
-#EXTINF:-1 tvg-id="bein4k" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN SPORT 4K AR
+#EXTINF:-1 tvg-id="bein4k" tvg-name="bein" tvg-logo="https://www.sports247.my/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="⚽SportBein",BEIN SPORT 4K AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1851249&extension=ts
-#EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN 1 SPORT AR
+#EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://www.sports247.my/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="⚽SportBein",BEIN 1 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806584&extension=ts
-#EXTINF:-1 tvg-id="bein2" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN2 SPORT AR
+#EXTINF:-1 tvg-id="bein2" tvg-name="bein" tvg-logo="https://www.sports247.my/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="⚽SportBein",BEIN2 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806581&extension=ts
-#EXTINF:-1 tvg-id="bein3" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN3 SPORT AR
+#EXTINF:-1 tvg-id="bein3" tvg-name="bein" tvg-logo="https://www.sports247.my/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="⚽SportBein",BEIN3 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806580&extension=ts
-#EXTINF:-1 tvg-id="bein6" tvg-name="bein" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SportBein",BEIN6 SPORT AR
+#EXTINF:-1 tvg-id="bein6" tvg-name="bein" tvg-logo="https://www.sports247.my/wp-content/uploads/2017/12/beIN-Sports-Logo.jpg" group-title="⚽SportBein",BEIN6 SPORT AR
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1806577&extension=ts
 
@@ -1950,14 +1968,7 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=45327&exten
 
 
 
-
-
 #------------------------------------------------------------------------------------------------------------------------------#
-
-#EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO (ts)   
-#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Chromecast) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Mobile Safari/537.36
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=2033811&extension=ts
 
 #EXTINF:-1 group-title="🎬ดูหนัง" tvg-logo="https://cdn.imgchest.com/files/2c898146ed07.jpg",HBO (Cnd2)   
 #EXTVLCOPT:http-referrer=https://atmflix.live/
@@ -2001,10 +2012,6 @@ https://cdn2.stream.atmflix.live/atmflixlive/truefilm2/playlist.m3u8
 #------------------------------------------------------------------------------------------------------------------------------#
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://www.imgx01.xyz/assets/img/ch_logo/hd-mono.png" group-title="🎬ดูหนัง",MONOMAX29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -2014,7 +2021,7 @@ https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://assets.brandinside.asia/uploads/2016/12/hbo-logo-1.jpg" group-title="🎬ดูหนัง",HBO (MAC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=2033811&extension=ts
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=110849&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://telecomtalk.info/wp-content/uploads/2015/11/HBO-Hits-India-1200x822.png" group-title="🎬ดูหนัง",HBO HIT
@@ -2178,7 +2185,7 @@ http://49.0.64.96:8007/SUPERJOKE
 #EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/14/59/66/360_F_414596658_9uQn8kPcdCnFhOY1OpTiHY6qJPxK6Ns5.jpg" group-title="🎉ช่องบันเทิง", HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
 
-#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/14/59/66/360_F_414596658_9uQn8kPcdCnFhOY1OpTiHY6qJPxK6Ns5.jpg" group-title="🎉ช่องบันเทิง",เกาหลี Arirang
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/20/1/arirang-logo-png_seeklogo-208999.png" group-title="🎉ช่องบันเทิง",เกาหลี Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/141564498/s718/mr-bean.jpg" group-title="🎉ช่องบันเทิง",Mr-bean
