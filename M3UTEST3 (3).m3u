@@ -1815,22 +1815,22 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458786&ext
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1458774&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="⚽SPORT3",ASTRO 1 MY (MAC)
+#EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/astro-malaysia-holdings-berhad--600.png" group-title="⚽SPORT3",ASTRO 1 MY (MAC)
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1016544&extension=ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="⚽SPORT3",ASTRO 2 MY (MAC)
+#EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/astro-malaysia-holdings-berhad--600.png" group-title="⚽SPORT3",ASTRO 2 MY (MAC)
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=918985&extension=ts
 
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="⚽SPORT3",HUB 1  (MAC)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 1  (MAC)
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314077&extension=ts
 
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/hub-1.png" group-title="⚽SPORT3",HUB 1 (MAC)
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 1 (MAC)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1314077&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽SPORT3",HUB 2 (MAC)
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 2 (MAC)
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314078&extension=ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://img2.pic.in.th/pic/hub-2.png" group-title="⚽SPORT3",HUB 2 (MAC)
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 2 (MAC)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1314078&extension=ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20220701201704" group-title="⚽SPORT3",V SP NO (MAC)
@@ -1886,6 +1886,41 @@ http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=691269&extens
 
 #EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="⚽SPORT3",SKY DAZN 1 UHD (MAx)
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=691269&extension=ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/48599c391a4c.png" group-title="⚽SPORT3",SPORTTV1
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/sporttv1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/48599c391a4c.png" group-title="⚽SPORT3",SPORTTV2
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/sporttv2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/48599c391a4c.png" group-title="⚽SPORT3",SPORTTV3
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/sporttv3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/48599c391a4c.png" group-title="⚽SPORT3",SPORTTV4
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/sporttv4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.imgchest.com/files/48599c391a4c.png" group-title="⚽SPORT3",SPORTTV5
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/sporttv5.m3u8
+
+
+#EXTINF:-1 group-title="⚽SPORT3" tvg-logo="https://cdn.imgchest.com/files/33f13e67dd4f.jfif",DAZN1
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/DAZN1.m3u8
+#EXTINF:-1 group-title="⚽SPORT3" tvg-logo="https://cdn.imgchest.com/files/33f13e67dd4f.jfif",DAZN2
+https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/DAZN2.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ro-digi-sport-1-880.png" group-title="⚽SPORT3",Digi Sport 1 HD
+http://91.201.172.14:35005
+#EXTINF:-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-ro-digi-sport-2-881.png" group-title="⚽SPORT3",Digi Sport 2 HD
+http://91.201.172.14:35006
 
 
 
@@ -2182,8 +2217,10 @@ http://49.0.64.96:8007/H-Channel
 #EXTINF:-1 group-title="🎉ช่องบันเทิง" tvg-logo="https://img.rationalcdn.com/starsweb/prod/43208_0.png",SUPERJOKE
 http://49.0.64.96:8007/SUPERJOKE
 
-#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/14/59/66/360_F_414596658_9uQn8kPcdCnFhOY1OpTiHY6qJPxK6Ns5.jpg" group-title="🎉ช่องบันเทิง", HIFIGHT
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/14/59/66/360_F_414596658_9uQn8kPcdCnFhOY1OpTiHY6qJPxK6Ns5.jpg" group-title="🎉ช่องบันเทิง",HIFIGHT
 http://49.0.64.96:8007/HIFIGHT
+#EXTINF:-1 tvg-logo="https://t3.ftcdn.net/jpg/04/14/59/66/360_F_414596658_9uQn8kPcdCnFhOY1OpTiHY6qJPxK6Ns5.jpg" group-title="🎉ช่องบันเทิง",TOPFIGHT
+http://49.0.64.96:8007/TOPFIGHT
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/20/1/arirang-logo-png_seeklogo-208999.png" group-title="🎉ช่องบันเทิง",เกาหลี Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
