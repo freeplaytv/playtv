@@ -1968,14 +1968,23 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314077&
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 1 (MAC)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1314077&extension=ts
 
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 1 (ts) เน็ตช้ามีกระตุก
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314077&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 2 (MAC)
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314078&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 2 (MAC)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1314078&extension=ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 2 (ts) เน็ตช้ามีกระตุก
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314078&extension=ts
+
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 3 (MAC)
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314079&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 3 (ts) เน็ตช้ามีกระตุก
+http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:49:1B:27&stream=1314079&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 4 (MAC)
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314080&extension=ts
