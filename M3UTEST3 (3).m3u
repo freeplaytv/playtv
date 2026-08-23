@@ -1628,6 +1628,11 @@ http://45.139.122.199:2095/live/hcUaDnDz/bwi5GuCFKw/115534.m3u8
 #EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
 https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 2 HD (tv) โหลดช้า
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/TSP2.m3u8
+
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="⚽SPORT1",TRUE Sport 3 HD (live)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
