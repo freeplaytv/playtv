@@ -1539,17 +1539,6 @@ https://ealivefotex.com/maxsport3/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://24goals.com/dooball/
 https://ealivefotex.com/maxsport2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://thethaiger.com/th/wp-content/uploads/2022/02/Headlines-Program-Ball-12-13FEB.jpg" group-title="สด",ถ่ายทอดสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/dooball/
-https://ealivefotex.com/maxsport2/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://thethaiger.com/th/wp-content/uploads/2022/02/Headlines-Program-Ball-12-13FEB.jpg" group-title="สด",ถ่ายทอดสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://full24th.com/
-https://ipc-vr5-smos.shop/maxsport3/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://thethaiger.com/th/wp-content/uploads/2022/02/Headlines-Program-Ball-12-13FEB.jpg" group-title="สด",ถ่ายทอดสด แมนเชสเตอร์ ซิตี้ - เอเอฟซี บอร์นมัธ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1712,7 +1701,7 @@ https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 2 HD (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://45.139.122.199/
-https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="⚽SPORT1",TRUE Sport 3 HD (iptv)
@@ -1723,7 +1712,7 @@ https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 4" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="⚽SPORT1",TRUE Sport 4 HD (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://45.139.122.199/
-https://hls.iptv-th.workers.dev/live/1138/playlist.m3u8
+https://hls.iptv-th.workers.dev/live/1137/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT1",TRUE Sport 5 HD (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
