@@ -2108,6 +2108,27 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312824&
 #EXTINF:-1 tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-icon.png" group-title="⚽SPORT3",CFC TV (MAC)
 http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=45327&extension=ts
 
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a1p.png" group-title="⚽SPORT3",ARENA PREMIUM 1 (MAC)
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917328&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a2p.png" group-title="⚽SPORT3",ARENA PREMIUM 2 (MAC)
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917327&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.supernovabih.ba/wp-content/uploads/2022/06/arena-premium-3-hd.png" group-title="⚽SPORT3",ARENA PREMIUM 3 (MAC)
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917326&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="⚽SPORT3",ESPN 1 CL SKY (MAC)
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917647&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fysmne1660760631.png" group-title="⚽SPORT3",ESPN 2 CL SKY (MAC)
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917646&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w1uhj11641567555.png" group-title="⚽SPORT3",V SPORT MOTOR (MAC)
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917666&extension=ts
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w1uhj11641567555.png" group-title="⚽SPORT3",V SPORT Football (MAC)
+http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917668&extension=ts
+
 
 
 #------------------------------------------------------------------------------------------------------------------------------#
