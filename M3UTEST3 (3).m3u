@@ -1550,6 +1550,15 @@ http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130731
 #EXTVLCOPT:http-referrer=http://tv.123tv.to/
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130726
 
+#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV (digi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://digi.dtv3.lol/live/
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/1776065.m3u8
+
+#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV2 (digi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://digi.dtv3.lol/live/
+http://digi.dtv3.lol/live/redwane_672645/00YR7KPL/1776068.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.moto-moment.com/wp-content/uploads/2025/03/SPOTV-NOW-05.jpg" group-title="⚽SPORT1",SPORTV (tv) โหลดช้า
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1560,6 +1569,7 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/19091.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/19092.m3u8
+
 
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://www.hotgolfclub.com/wp-content/uploads/2023/06/HotGolf_PGA-Tour_LIV.jpg" group-title="⚽SPORT1",PGA GOLF 1080p (us)
@@ -2270,17 +2280,16 @@ http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1438264&ext
 =======================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://www.acnews.net/admin/img_large/9123097.jpg" group-title="🐘สารคดี",History Asia
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115715&extension=ts
+http://49.0.64.96:8007/Hitstory
 
 #EXTINF:-1 tvg-logo="https://www.acnews.net/admin/img_large/9123097.jpg" group-title="🐘สารคดี",History Asia EN
 https://ec02-pop1-hlc.tv360.vn/bpk-token/xymryfgo3qnrjn2upm3l6gi4cs7bshau/bpk-tv/191/output/191-audio_214835_und_iv_1=214800-video_iv_1=1064800.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/17-171695_discovery-channel-hd-logo-png-transparent-png.png" group-title="🐘สารคดี",Discovery HD
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115652&extension=ts
+http://49.0.64.96:8007/Discovery
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/17-171695_discovery-channel-hd-logo-png-transparent-png.png" group-title="🐘สารคดี",Discovery HD Asin
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115399&extension=ts
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="🐘สารคดี",Animal
+http://49.0.64.96:8007/Animal
 
 #EXTINF:-1 tvg-logo="https://www.acnews.net/admin/img_large/9123097.jpg" group-title="🐘สารคดี",ANINAL PLANET
 http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=549398&extension=ts
@@ -2294,8 +2303,8 @@ http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458749&ext
 #EXTINF:-1 tvg-logo="https://www.acnews.net/admin/img_large/9123097.jpg" group-title="🐘สารคดี",NATIONAL GEO WILD
 http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458748&extension=ts
 
-#EXTINF:-1 tvg-logo="https://www.acnews.net/admin/img_large/9123097.jpg" group-title="🐘สารคดี",สารคดี
-http://mag.trexlive.me:80/play/live.php?mac=00:1B:79:F8:A6:5B&stream=1458756&extension=ts
+#EXTINF:-1 tvg-logo="https://www.acnews.net/admin/img_large/9123097.jpg" group-title="🐘สารคดี",AMAZING
+http://49.0.64.96:8007/AMAZING
 
 #---------------------------------------------------------------------------------------------------------
 
@@ -2312,12 +2321,16 @@ https://restream.pdtvhd.com/memfs/9e6205cb-2c2c-41ed-a7e5-831ccaade4d1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.nextsteptv.com/wp-content/uploads/2016/07/cropped-SRL_LOGO_2016.png?resize=300%2C300" group-title="🐘สารคดี",สำรวจโลก
 http://dootvz.ddns.net:25461/live/skycos3/aa2233/116.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bMtB5NKS/logo-animal.png" group-title="🐘สารคดี",Animal
-http://49.0.64.96:8007/Animal
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gQLyLmK/logo-seience.png" group-title="🐘สารคดี",SCIence
 http://49.0.64.96:8007/WSCI
 
+#EXTINF:-1 tvg-logo="https://www.sport-fishing.com/cdn/shop/files/LOGO-FISH_DAN_H_Tuna.jpg?v=1702082396&width=95" group-title="🐘สารคดี",FISHING TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet" tvg-logo="https://i.imgur.com/SkpFpW4.png" group-title="🐘สารคดี",Animal Planet
+http://31.148.48.15/Animal_Planet_HD/index.m3u8
+
+#-----------------------------------------------------------------------------------------------------------------------------------#
 
 
 
