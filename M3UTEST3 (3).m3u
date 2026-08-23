@@ -1667,6 +1667,52 @@ https://cdn2.stream.atmflix.live/atmflixlive/tpf5/playlist.m3u8
 
 
 
+
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 1 HD (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
+https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 2 HD (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://45.139.122.199/
+https://hls.iptv-th.workers.dev/live/1135/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="⚽SPORT1",TRUE Sport 3 HD (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://45.139.122.199/
+https://hls.iptv-th.workers.dev/live/1136/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport4.th" tvg-name="TRUE Sport 4" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd4.png" group-title="⚽SPORT1",TRUE Sport 4 HD (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://45.139.122.199/
+https://hls.iptv-th.workers.dev/live/1138/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT1",TRUE Sport 5 HD (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://45.139.122.199/
+https://hls.iptv-th.workers.dev/live/1138/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT1",TRUE Sport 7 HD (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://45.139.122.199/
+https://hls.iptv-th.workers.dev/live/1139/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
+https://hls.iptv-th.workers.dev/live/1122/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV2 (iptv)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
+https://hls.iptv-th.workers.dev/live/1123/playlist.m3u8
+
+
+
+
 #--------------------------------------------------------------------------------------------------#
 
 #EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein1
@@ -1794,8 +1840,8 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/14.m3u8
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/mono29.png",MONO29 ts
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115728&extension=ts
+#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
+https://hls.iptv-th.workers.dev/live/1229/playlist.m3u8
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/onehd.png",ONED
 #EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
@@ -1818,7 +1864,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
 #EXTVLCOPT:http-referrer=
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 
-
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://mainstand.co.th/storage/news/4968_Tsports7.jpg",Tsport7
+#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=
+https://hls.iptv-th.workers.dev/live/2734/playlist.m3u8
 
 
 #------------------------------------------------------------------------------------------------------------------------------#
@@ -1853,6 +1902,18 @@ http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314078&
 
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 2 (MAC)
 http://line.mag7070.eu:80/play/live.php?mac=00:1A:79:6E:47:57&stream=1314078&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 3 (MAC)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314079&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 4 (MAC)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314080&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 5 (MAC)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314081&extension=ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 UHD VIP SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",HUB 6 (MAC)
+http://main.light-ott.net:80/play/live.php?mac=00:1B:79:1C:69:84&stream=1314082&extension=ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/db/V_Sport_Premier_League.svg/revision/latest/scale-to-width-down/300?cb=20220701201704" group-title="⚽SPORT3",V SP NO (MAC)
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1001366&extension=ts
