@@ -1540,12 +1540,12 @@ https://ealivefotex.com/maxsport3/tracks-v1a1/mono.m3u8
 https://ealivefotex.com/maxsport2/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://thethaiger.com/th/wp-content/uploads/2022/02/Headlines-Program-Ball-12-13FEB.jpg" group-title="สด",ถ่ายทอดสด แมนเชสเตอร์ ซิตี้ - เอเอฟซี บอร์นมัธ
+#EXTINF:-1 tvg-logo="https://thethaiger.com/th/wp-content/uploads/2022/02/Headlines-Program-Ball-12-13FEB.jpg" group-title="สด",ถ่ายทอดสด 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://live.mee88player.com/live/82044.m3u8
 
-#EXTINF:-1 tvg-logo="https://thethaiger.com/th/wp-content/uploads/2022/02/Headlines-Program-Ball-12-13FEB.jpg" group-title="สด",ถ่ายทอดสด ลิเวอร์พูล - นิวคาสเซิ่ล ยูไนเต็ด
+#EXTINF:-1 tvg-logo="https://thethaiger.com/th/wp-content/uploads/2022/02/Headlines-Program-Ball-12-13FEB.jpg" group-title="สด",ถ่ายทอดสด ลิเวอร์พูล 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://full24th.com/
 https://ipc-vr5-smos.shop/maxsport3/tracks-v1a1/mono.m3u8
@@ -1578,12 +1578,12 @@ https://live.mee88player.com/live/82079.m3u8
 #------------------------------------------------------------------------------------------------------------------------#
 
 
-#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax1 ts
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax1 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
-http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660493&extension=ts
+#EXTVLCOPT:http-referrer=http://tv.123tv.to/
+http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130732
 
-#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 ts
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://mag.jee-ott.xyz/
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:7C:06:D2&stream=1660492&extension=ts
