@@ -1633,7 +1633,10 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/19092.m3u8
 #EXTVLCOPT:http-referrer=https://d11k1mnrgfposz.cloudfront.net/
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://www.hotgolfclub.com/wp-content/uploads/2023/06/HotGolf_PGA-Tour_LIV.jpg" group-title="⚽SPORT1",PGA GOLF2 1080p (us)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://d11k1mnrgfposz.cloudfront.net/
+https://d11k1mnrgfposz.cloudfront.net/playlist_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="golfth" tvg-logo="https://storage.googleapis.com/fastwork-asset/subcategory_images/th/cover/tutor/tennis-training.jpg" group-title="⚽SPORT1",TENNIS (8080)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
