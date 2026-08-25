@@ -1540,7 +1540,8 @@ https://cdn2.stream.atmflix.live/atmflixlive/volleyball2/playlist.m3u8
 https://cdn2.stream.atmflix.live/atmflixlive/volleyball3/playlist.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",VNL
+https://hls.iptv-th.workers.dev/live/4206/playlist.m3u8
 
 # -------------------------------------------------------- MONOMAX ---------------------------------------------------------------#
 # --- MONOMAX 1 ---
