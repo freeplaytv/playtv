@@ -1782,6 +1782,21 @@ https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/be
 https://raw.githubusercontent.com/AusawinNuang/AusawinChannel/refs/heads/main/bein8.m3u8
 
 
+#EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein1 ts
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115807&extension=ts
+#EXTINF:-1 tvg-id="bein2" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein2 ts
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1841553&extension=ts
+
+#EXTINF:-1 tvg-id="bein3" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein3 ts
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115809&extension=ts
+
+#EXTINF:-1 tvg-id="bein3" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein3 ts
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115809&extension=ts
+
 
 #--------------------------------------------------------------------------------------------------#
 #EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein1 th
@@ -1905,20 +1920,20 @@ https://hls.iptv-th.workers.dev/live/2734/playlist.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------#
 
-#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="⚽SPORT3",LFC TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/lfctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="⚽SPORT3",MUTV HD
+
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2018/07/14113743/MUtv-logo.jpg" group-title="⚽SPORT3",MUTV HD
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://get.perfecttv.net/mutv.mpd
 
-#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="⚽SPORT3",MUTV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://api.plus-server.sbs/
-http://api.plus-server.sbs/play.php?key=1234&ch=mutv
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xtvurp1433361104.png" group-title="⚽SPORT3",lfctv
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+https://get.perfecttv.net/lfctv.mpd
 
+#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xtvurp1433361104.png" group-title="⚽SPORT3",LFC TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/lfctv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/astro-malaysia-holdings-berhad--600.png" group-title="⚽SPORT3",ASTRO 1 MY (MAC)
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1016544&extension=ts
@@ -2249,19 +2264,19 @@ http://181.224.255.210:8001/play/a0qz/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.beartai.com/wp-content/uploads/2024/07/Cartoon-Network.jpg" group-title="👩‍❤️‍👨การ์ตูน",CN (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
-https://hls.iptv-th.workers.dev/live/4018/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://tv.123tv.to
+http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/99
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/BoomThailand2025.png" group-title="👩‍❤️‍👨การ์ตูน",BOOM (skycos3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/70.m3u8
+#EXTVLCOPT:http-referrer=http://tbtv.me
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=116073&extension=ts
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/N/nick-jr-logo-3DA453A3B0-seeklogo.com.png" group-title="👩‍❤️‍👨การ์ตูน",Nickjr (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
-https://hls.iptv-th.workers.dev/live/4019/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115825&extension=ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/8/8d/Nicktoons_US_2023.png" group-title="👩‍❤️‍👨การ์ตูน",NITO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
