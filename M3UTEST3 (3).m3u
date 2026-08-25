@@ -1529,7 +1529,7 @@
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/volleyball1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/img_poster/prefix_1/1257/4257/2018-fivb-volleyball-nations-league-5b6186decfb8b-m.jpg" group-title="ช่วอเล่บอล",volleyball-2 HD ถ่ายสด
+#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/img_poster/prefix_1/1257/4257/2018-fivb-volleyball-nations-league-5b6186decfb8b-m.jpg" group-title="วอเล่บอล",volleyball-2 HD ถ่ายสด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/volleyball2/playlist.m3u8
@@ -1902,16 +1902,16 @@ https://hls.iptv-th.workers.dev/live/2734/playlist.m3u8
 
 #------------------------------------------------------------------------------------------------------------------------------#
 
-#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",LFC TV HD
+#EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="⚽SPORT3",LFC TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/lfctv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="ช่อง SPORTS - 2",MUTV HD
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/MH1YqfC2/IMG-2961.png" group-title="⚽SPORT3",MUTV HD
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://get.perfecttv.net/mutv.mpd
 
-#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="ช่อง SPORTS - 2",MUTV HD
+#EXTINF:-1 tvg-id="Manchester.uk" tvg-logo="https://i.postimg.cc/QdjMtvY9/IMG-4089.png" group-title="⚽SPORT3",MUTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://api.plus-server.sbs/
 http://api.plus-server.sbs/play.php?key=1234&ch=mutv
