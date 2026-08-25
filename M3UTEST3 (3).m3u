@@ -2369,9 +2369,14 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 
 
 
-
-
-
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Marvel%20Iron%20Man.png" group-title="🎉ช่องบันเทิง",Marvel Iron Man SE
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947668&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Marvel%20Spider%20Man.png" group-title="🎉ช่องบันเทิง",Marvel Spider Man SE
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947669&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Netflix.png" group-title="🎉ช่องบันเทิง", Netflix Film 1 SE
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947677&extension=ts
+#EXTINF:-1 tvg-logo="https://logos.mypanel.one/logos/LogoEVDTV/Other/by_category/Netflix.png" group-title="🎉ช่องบันเทิง", Netflix Film 2 SE
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=947678&extension=ts
 
 
 
