@@ -1937,15 +1937,21 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 https://hls.iptv-th.workers.dev/live/2734/playlist.m3u8
 
 
-#EXTINF:-1 group-title="️ทีวีดิจิตอล" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",ONE31 HD (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
-#EXTINF:-1 group-title="️ทีวีดิจิตอล" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/thairath_tv.png",Thairath TV (MPD)
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/thairathtv.png",Thairath TV (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-id="Amarin34HD.th" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/amarin.png" group-title="ทีวีดิจิตอล",Amarin TV (MPD)
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-id="Mono 29.th" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/29.png" group-title="ทีวีดิจิตอล",Mono 29 FHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #------------------------------------------------------------------------------------------------------------------------------#
 
