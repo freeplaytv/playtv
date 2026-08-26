@@ -1525,6 +1525,18 @@ http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376202&extension
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 3
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376203&extension=ts
 
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 4
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376206&extension=ts
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 4
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376205&extension=ts
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 5
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376208&extension=ts
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 5
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376234&extension=ts
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 6
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376236&extension=ts
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 7
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376211&extension=ts
 
 
 
