@@ -1563,8 +1563,14 @@ http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130724
 https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",สด1 VNL
+https://ealivefotex.com/maxsport2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",สด2 VNL
+https://ealivefotex.com/resteam5/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",สด2 VNL
+https://ealivefotex.com/resteam6/tracks-v1a1/mono.m3u8
 
 
 #------------------------------------------------------------------------------------------------------------------------#
