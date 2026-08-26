@@ -1523,25 +1523,9 @@
 
 
 
-#------------------------------- True volleyball1 atmflix ----------------------------------
-#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/img_poster/prefix_1/1257/4257/2018-fivb-volleyball-nations-league-5b6186decfb8b-m.jpg" group-title="วอเล่บอล",volleyball-1 HD ถ่ายสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/volleyball1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/img_poster/prefix_1/1257/4257/2018-fivb-volleyball-nations-league-5b6186decfb8b-m.jpg" group-title="วอเล่บอล",volleyball-2 HD ถ่ายสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/volleyball2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.thaiticketmajor.com/img_poster/prefix_1/1257/4257/2018-fivb-volleyball-nations-league-5b6186decfb8b-m.jpg" group-title="วอเล่บอล",volleyball-3 HD ถ่ายสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/volleyball3/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",VNL
-https://hls.iptv-th.workers.dev/live/4206/playlist.m3u8
+
 
 # -------------------------------------------------------- MONOMAX ---------------------------------------------------------------#
 # --- MONOMAX 1 ---
@@ -1571,6 +1555,9 @@ https://ealivefotex.com/resteam5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",สด2 VNL
 https://ealivefotex.com/resteam6/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",สด3 VNL
+https://cdn.wassupdawg.org/s/mst1_AQEAao5kADaS5uVDR0PKkrQJbG8-BZNkRuSR5EBNjq1fVrk3KMlFWbz3Dvq85SoNbW9ub21heC0wNy10aAAAAAAAAAAACkeQC80RqD8Upg0ZAVRIAH2SacUHuxT2Jui6oLZ9u-unWpfW4E7j7jtMiWVB32H6ISfs_EJUa5X4ZTj5M5AG92SPoWEpKs96ZvHMjTpmogA/58893b35/playlist.m3u8
 
 
 #------------------------------------------------------------------------------------------------------------------------#
