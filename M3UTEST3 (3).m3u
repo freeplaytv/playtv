@@ -1503,38 +1503,6 @@
 
 
 
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115609&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115601&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115612&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115620&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
-http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
-
-
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 1
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376195&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 2
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376202&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 3
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376203&extension=ts
-
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 4
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376206&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 4
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376205&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 5
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376208&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 5
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376234&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 6
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376236&extension=ts
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 7
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376211&extension=ts
-
 
 
 
@@ -1581,52 +1549,19 @@ https://ealivefotex.com/maxsport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล", วอลเลย์ VNL
 https://luong.phaohoa.live/live/phaohoa8/index.m3u8
 
+
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="วอเล่บอล",โมโน
+http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
+
 #------------------------------------------------------------------------------------------------------------------------#
 
 
 
-#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 1 HD (ts)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115532&extension=ts
-
-#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ymzel61749974808.png" group-title="⚽SPORT1",TRUE Sport 2 (ts)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115790&extension=ts
-
-#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd3.png" group-title="⚽SPORT1",TRUE Sport 3 HD (ts)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115537&extension=ts
-
-#EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT1",TRUE Sport 5 HD (ts)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115541&extension=ts
-
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT1",TRUE Sport 7 HD (ts)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tbtv.me/
-http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115798&extension=ts
-
-
-
-
-#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax1 tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tv.123tv.to/
-http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130732
 
 #EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax1 ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://nordicone.tv/
-http://nordicone.tv:2095//live/67066804/507673455742/813034.ts
-
-#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
-https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
+http://nordicone.tv:2095//live/67066804/507673455742/813033.ts
 
 #EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1649,15 +1584,6 @@ https://hls.iptv-th.workers.dev/live/3909/playlist.m3u8
 https://hls.iptv-th.workers.dev/live/3908/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT1",Monomax1 tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tv.123tv.to/
-http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130731
-
-#EXTINF:-1 tvg-logo="https://www.khaosod.co.th/wpapp/uploads/2026/05/fyr.jpg" group-title="⚽SPORT1",Monomax2 tv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tv.123tv.to/
-http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130726
 
 #EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV (digi)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1873,30 +1799,6 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
 
 
-#EXTINF:-1 tvg-id="beINSports" tvg-name="BEIN SPORTS 1" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="⚽SportBein", beIN Sports 1 (Australia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
-
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="BEIN SPORTS 2" tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="⚽SportBein", beIN Sports 2 (Australia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="BEIN SPORTS 3" tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="⚽SportBein", beIN Sports 3 (Australia)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
 
 #--------------------------------------------------------------------------------------------------#
 
@@ -1998,10 +1900,6 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTVLCOPT:http-referrer=
 https://hls.iptv-th.workers.dev/live/2734/playlist.m3u8
 
-#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-7-th.png",Tsport7 (MPD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
-https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/thairathtv.png",Thairath TV (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2019,10 +1917,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 
-#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://pbs.twimg.com/profile_images/1055683509845553153/6dH7xHRA_400x400.png",Cable37
-#EXTVLCOPT:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://ultratv.one/
-http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/116075.m3u8
+
 
 #------------------------------------------------------------------------------------------------------------------------------#
 
