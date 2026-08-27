@@ -1553,6 +1553,9 @@ https://luong.phaohoa.live/live/phaohoa8/index.m3u8
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="วอเล่บอล",โมโน
 http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
 
+#EXTINF:-1 tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล", Max Sport2 VNL1
+https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL1.m3u8
+
 #------------------------------------------------------------------------------------------------------------------------#
 
 
@@ -1739,8 +1742,8 @@ http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
 #EXTVLCOPT:http-referrer=http://nordicone.tv/
 http://nordicone.tv:2095//live/67066804/507673455742/115798.ts
 
-
-
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="" group-title="⚽SPORT1",SK1 HD (m3)
+http://cmskos.bekaks.net:777/live/Ekremi_Belgjik/K1zy2KjUFf/983.ts
 
 #--------------------------------------------------------------------------------------------------#
 
