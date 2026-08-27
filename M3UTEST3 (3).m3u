@@ -1502,6 +1502,7 @@
 
 
 
+
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115609&extension=ts
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
@@ -1510,7 +1511,8 @@ http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115601&extension=
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115612&extension=ts
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115620&extension=ts
-
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
+http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
 
 
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 1
@@ -1616,10 +1618,20 @@ http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115798&extension=
 #EXTVLCOPT:http-referrer=http://tv.123tv.to/
 http://tv.123tv.to:8080/besipopoc/t6eP5vHM2B/130732
 
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax1 ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/813034.ts
+
 #EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
 https://hls.iptv-th.workers.dev/live/3911/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax2 ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/813034.ts
 
 #EXTINF:-1 tvg-logo="https://statice.homepro.co.th/homepro/ART_IMAGE/70/045/7004575/447x447/24062026_7004575$Imagec1.jpg" group-title="⚽SPORT1",Monomax3 tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -1770,6 +1782,29 @@ https://hls.iptv-th.workers.dev/live/1122/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
 https://hls.iptv-th.workers.dev/live/1123/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/ymzel61749974808.png" group-title="⚽SPORT1",TRUE Sport 1 (m3) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115531.ts
+
+#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="⚽SPORT1",TRUE Sport 2 (m3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115534.ts
+
+#EXTINF:-1 tvg-id="TrueSport3.th" tvg-name="TRUE Sport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n38j121749974830.png" group-title="⚽SPORT1",TRUE Sport 3 (m3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
+
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://www.ohlthai.com/wp-content/uploads/2021/03/true-sport-hd.png" group-title="⚽SPORT1",TRUE Sport 7 (m3)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115798.ts
 
 
 
@@ -2227,6 +2262,25 @@ http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917666&exten
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/w1uhj11641567555.png" group-title="⚽SPORT3",V SPORT Football (MAC)
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1917668&extension=ts
 
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/2/1/a/21a6f37a67a99c62a37584b83ebc6c42_icon.png" group-title="⚽SPORT3",Fox Sport1 US (m3)
+https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FoxSportUS1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/2/1/a/21a6f37a67a99c62a37584b83ebc6c42_icon.png" group-title="⚽SPORT3",Fox Sport2 US (m3)
+https://raw.githubusercontent.com/B-inal-123/s-latin/refs/heads/inal-22/FoxSportUS2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SPORT3",Bein Sport1 US (m3)
+https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportENG1.m3u8
+#EXTINF:-1 tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/bein-edit-2.png" group-title="⚽SPORT3",Bein Sport2 US (m3)
+https://raw.githubusercontent.com/B-inal-123/bein-s/refs/heads/inal-22/BeinSportENG2.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",Hubsport1 (m3)
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/Hubsport1.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",Hubsport2 (m3)
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/Hubsport2.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7jmsjx1655810507.png" group-title="⚽SPORT3",Hubsport3 (m3)
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/Hubsport3.m3u8
+
 
 
 #------------------------------------------------------------------------------------------------------------------------------#
@@ -2315,6 +2369,11 @@ https://hls.iptv-th.workers.dev/live/4003/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/live/
 https://hls.iptv-th.workers.dev/live/3994/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/CCM_new_Logo.png" group-title="🎬ดูหนัง", CCM (ts)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://nordicone.tv/
+http://nordicone.tv:2095//live/67066804/507673455742/115802.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_hbo-plus-panamericano-hd_m.png" group-title="🎬ดูหนัง",HBO+ (index)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
