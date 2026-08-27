@@ -1507,18 +1507,6 @@
 
 
 
-
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="บอลสด",LIVE 1
-https://ealivefotex.com/tsphd2/index.m3u8
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="บอลสด",ทรู 2
-https://cdn.wassupdawg.org/s/mst1_AQEAao7gtzaS5uVDR0PKkrQJbG8-BZNkRuSR5EBNjq1fVrk3KMlFzH5bPmgv87ANc3BvcnQtaGQtMi10aAAAAAAAAAAAH_i2h8G2NcuyC7AxAVRIAFEr3Km0En1FNj6yXngu73tp4SVeG4YmzTTCjpa7UoniyrreIsk5AAMqAdc7WoPoUAZTZU15KD5QgpervYIK8ww/1e7ea95a/playlist.m3u8
-#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fq7ag31749974821.png" group-title="บอลสด",truesport 2
-https://silentpacketrelay.xyz/tsphd2/index.m3u8
-
-
-
-
-
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 1
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=1376195&extension=ts
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://www.mobileocta.com/wp-content/uploads/2023/07/Pic01-AIS-Play-ThaiLeague-cv.jpg" group-title="ไฮไลท์กีฬา",LIVE 2
@@ -1835,6 +1823,31 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/32.m3u8
 #EXTVLCOPT:http-referrer=https://dc1644a9jazgj.cloudfront.net/
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
+
+
+#EXTINF:-1 tvg-id="beINSports" tvg-name="BEIN SPORTS 1" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="⚽SportBein", beIN Sports 1 (Australia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="BEIN SPORTS 2" tvg-logo="https://object-streamo.emonaja.com/img/beinsports2.png" group-title="⚽SportBein", beIN Sports 2 (Australia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="BEIN SPORTS 3" tvg-logo="https://object-streamo.emonaja.com/img/beinsports3.png" group-title="⚽SportBein", beIN Sports 3 (Australia)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 
 #--------------------------------------------------------------------------------------------------#
