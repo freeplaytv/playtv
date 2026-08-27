@@ -1506,6 +1506,10 @@
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115609&extension=ts
 #EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
 http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115601&extension=ts
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115612&extension=ts
+#EXTINF:-1 tvg-name="LIVE 1" tvg-logo="https://u7.uidownload.com/vector/112/921/vector-cartoon-of-a-businessman-with-a-question-mark-eps.jpg" group-title="ช่องอะไร",กดดูสิ
+http://tbtv.me:2095/play/live.php?mac=10:27:BE:0D:E1:F4&stream=115620&extension=ts
 
 
 
