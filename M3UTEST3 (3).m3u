@@ -1956,7 +1956,10 @@ https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTVLCOPT:http-referrer=
 https://hls.iptv-th.workers.dev/live/2734/playlist.m3u8
 
-
+#EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/t-sports-7-th.png",Tsport7 (MPD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
 
 #EXTINF:-1 group-title="ทีวีดิจิตอล" tvg-logo="https://www.tvjaa.com/storage/tv-channels/thairathtv.png",Thairath TV (MPD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
