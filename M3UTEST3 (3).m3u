@@ -1524,6 +1524,12 @@ https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/lfc.m3u8
 #EXTINF:-1 group-title="บอลสด" tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg",LFC TV
 http://tv.cloudcdn.me:80/live.ts?channelId=91138&uid=757&deviceMac=00:1A:79:04:55:C4
 
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg" group-title="บอลสด",บอลสด 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ball67.com/
+https://cdnsv1.cdncloudbot.com/ball67/monomax2/chunks.m3u8
+
+
 # -------------------------------------------------------- MONOMAX ---------------------------------------------------------------#
 # --- MONOMAX 1 ---
 
