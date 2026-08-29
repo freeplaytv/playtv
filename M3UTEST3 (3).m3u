@@ -2007,8 +2007,8 @@ https://get.perfecttv.net/lfctv.mpd
 
 #EXTINF:-1 tvg-id="Liverpool.uk" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/xtvurp1433361104.png" group-title="⚽SPORT3",LFC TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/lfctv/playlist.m3u8
+#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
+http://tv.cloudcdn.me:80/live.ts?channelId=128705&uid=3037&deviceMac=00:1A:79:0A:3B:2B
 
 #EXTINF:-1 tvg-logo="https://s3-symbol-logo.tradingview.com/astro-malaysia-holdings-berhad--600.png" group-title="⚽SPORT3",ASTRO 1 MY (MAC)
 http://185.80.197.65:80/play/live.php?mac=00:1B:79:34:7B:C8&stream=1016544&extension=ts
