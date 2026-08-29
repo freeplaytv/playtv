@@ -1500,9 +1500,9 @@ https://silentpacketrelay.xyz/maxsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg" group-title="บอลสด",บอลสด 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://24goals.com/
-https://ealivefotex.com/maxsport1/index.m3u8
+https://ealivefotex.com/max2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg" group-title="VOLLEYBALL",monomax-sports3 สด
+#EXTINF:-1 tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg" group-title="ฟุตบอลสด",monomax-sports3 สด
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://atmflix.live/
 https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports3/playlist.m3u8
