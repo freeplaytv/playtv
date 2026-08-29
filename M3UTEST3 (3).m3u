@@ -1516,8 +1516,8 @@ https://cdn.wassupdawg.org:8182/m1/ro8hSeNvrvIw48hg9o03tQ/1787985007/15965645d7a
 #EXTINF:-1 group-title="บอลสด" tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg",LFC TV
 https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/lfc.m3u8
 
-
-
+#EXTINF:-1 group-title="บอลสด" tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg",LFC TV
+http://tv.cloudcdn.me:80/live.ts?channelId=91138&uid=757&deviceMac=00:1A:79:04:55:C4
 
 # -------------------------------------------------------- MONOMAX ---------------------------------------------------------------#
 # --- MONOMAX 1 ---
