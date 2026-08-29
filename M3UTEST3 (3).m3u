@@ -1729,12 +1729,12 @@ https://cdn2.stream.atmflix.live/atmflixlive/tpf5/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 1 HD (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://hls.iptv-th.workers.dev/
-https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://github.com/
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/True1.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 2 HD (SK3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
+#EXTVLCOPT:http-referrer=https://github.com/
 https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/True2.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 2 HD (iptv)
@@ -1754,13 +1754,13 @@ https://hls.iptv-th.workers.dev/live/1137/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport5.th" tvg-name="TRUE Sport 5" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT1",TRUE Sport 5 HD (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://45.139.122.199/
+#EXTVLCOPT:http-referrer=https://github.com/
 https://hls.iptv-th.workers.dev/live/1138/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport7.th" tvg-name="TRUE Sport 7" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd5.png" group-title="⚽SPORT1",TRUE Sport 7 HD (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://45.139.122.199/
-https://hls.iptv-th.workers.dev/live/1139/playlist.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/True7.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2022/03/SPOTV_LOGO-01-B.jpg" group-title="⚽SPORT1",SPORTV (iptv)
