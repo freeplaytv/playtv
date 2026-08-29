@@ -1492,27 +1492,43 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://www.premiertickets.co/assets/uploads/2025/12/lumpinee.jpg" group-title="มวยลุม",มวยลุม สด
+#EXTINF:-1 tvg-logo="https://www.premiertickets.co/assets/uploads/2025/12/lumpinee.jpg" group-title="บอลสด",บอลสด ลิเวอร์พูล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://full24th.com/
+https://silentpacketrelay.xyz/maxsport1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.premiertickets.co/assets/uploads/2025/12/lumpinee.jpg" group-title="บอลสด",บอลสด 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://24goals.com/
-https://ealivefotex.com/hd7/tracks-v1a1/mono.m3u8
+https://ealivefotex.com/maxsport1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.premiertickets.co/assets/uploads/2025/12/lumpinee.jpg" group-title="มวยลุม",มวยลุม สด
+
+#EXTINF:-1 tvg-logo="https://www.premiertickets.co/assets/uploads/2025/12/lumpinee.jpg" group-title="บอลสด",บอลสด ลิเวอร์พูล
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/
-https://ipc-vr5-smos.shop/hd7/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://livescorethai.football/
+https://cdn.wassupdawg.org:8182/m1/nd_vKkV_SgnzgInqUomtyQ/1787984959/15965645d7aebe47f3de8e9f7126fe77/BHdEGrpSX46O6Es-wb16qg/1787995639/live/mlp-origin/viaplay-sports-2-uk/medialist_16613431852980962031_hls.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.premiertickets.co/assets/uploads/2025/12/lumpinee.jpg" group-title="บอลสด",บอลสด 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://livescorethai.football/
+https://cdn.wassupdawg.org:8182/m1/ro8hSeNvrvIw48hg9o03tQ/1787985007/15965645d7aebe47f3de8e9f7126fe77/hDe_KAyLpL2Hv4RX5375iw/1787995687/live/mlp-origin/tnt-sports-3-hd-uk/medialist_3940502353154254569_hls.m3u8
 
-
-
-
-
+#EXTINF:-1 group-title="บอลสด" tvg-logo="https://cdn.imgchest.com/files/3f5f1a695adc.jpg",LFC TV
+https://raw.githubusercontent.com/Netibox/MOV69/refs/heads/main/testmac/lfc.m3u8
 
 
 
 
 # -------------------------------------------------------- MONOMAX ---------------------------------------------------------------#
 # --- MONOMAX 1 ---
+
+#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",สด 1
+https://ealivefotex.com/maxsport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://goodiptv.site/images/tv/a15wFN31wjOoOb61XIh6Kz8kFqAwfinyuHJ0T69AHHoZJfvOzuOmXyA6V7tqIfvnl.png" group-title="วอเล่บอล",สด 2
+https://silentpacketrelay.xyz/maxsport1/index.m3u8
+
+
 #EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://f.ptcdn.info/267/091/000/mp802wc0hlA5PCfGRWR-o.jpg" group-title="วอเล่บอล",Monomax 1
 #EXTVLCOPT:network-caching=1000
 http://fastopen.live:8080/eY4LRyEkJP/9cV5tKCRYh/130732
@@ -1719,7 +1735,7 @@ https://hls.iptv-th.workers.dev/live/1193/playlist.m3u8
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 2 HD (SK3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://dootvz.ddns.net/
-http://dootvz.ddns.net:25461/live/skycos3/aa2233/23074.m3u8
+https://raw.githubusercontent.com/B-inal-123/s-asia/refs/heads/inal-22/True2.m3u8
 
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://s3.dooflixlive.com/assets/images/tv/sport/truesporthd.png" group-title="⚽SPORT1",TRUE Sport 2 HD (iptv)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
