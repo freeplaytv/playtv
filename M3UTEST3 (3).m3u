@@ -1683,8 +1683,10 @@ http://nordicone.tv:2095//live/67066804/507673455742/813035.ts
 https://raw.githubusercontent.com/B-inal-123/ligabola-s/refs/heads/inal-22/VollyVNL1.m3u8
 
 
-
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/vollayball_1.webp" group-title="วอเล่บอล",vbtv2 สด
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv2/chunks.m3u8
 
 
 
