@@ -1481,6 +1481,12 @@ https://ealivefotex.com/mutv/index.m3u8
 #EXTVLCOPT:http-referrer=https://24goals.com/
 https://cdn.wassupdawg.org/s/mst1_AQEAapP2DzaS5uVDR0PKkrQJbG8-BZNkRuSR5EBNjq1fVrk3KMlFpFzPfZjQZ7Icc2t5LXNwb3J0cy1wcmVtaWVyLWxlYWd1ZS11awAAAAAAAAAAXGixVLY45a9Nz7o3AVRIAMrw4JgO4TbY-N1eSsl3yfoVXn-1b3UxPnxvBcSwjcVcIk8gnhRscM_17RZNg19zN18QwxFtRblimKCjDjQMiAg/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://st.depositphotos.com/1006472/1847/i/450/depositphotos_18478155-stock-photo-live-message.jpg" group-title="บอลสด",บอลสด monomax-sports3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports3/playlist.m3u8
+
+
 
 
 
