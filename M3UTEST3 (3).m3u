@@ -1479,8 +1479,25 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://sporter.com.hr/images/kanal-tv-program/sportklub-hd-hrvatska-tv-program-uzivo.png" group-title="⚽SPORT2",SK 1 HD เทสนิส
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://lite1kh.com/
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171342
 
+#EXTINF:-1 tvg-logo="https://sporter.com.hr/images/kanal-tv-program/sportklub-hd-hrvatska-tv-program-uzivo.png" group-title="⚽SPORT2",SK 2 HD แข่งรถ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://lite1kh.com/
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171343
 
+#EXTINF:-1 tvg-logo="https://sporter.com.hr/images/kanal-tv-program/sportklub-hd-hrvatska-tv-program-uzivo.png" group-title="⚽SPORT2",SK 3 HD ฟุตบอล
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://lite1kh.com/
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171344
+
+#EXTINF:-1 tvg-logo="https://sporter.com.hr/images/kanal-tv-program/sportklub-hd-hrvatska-tv-program-uzivo.png" group-title="⚽SPORT2",SK 4 HD ฟุตบอล ลาลีกา
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://lite1kh.com/
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171345
 
 
 #EXTINF:-1 tvg-logo="https://storage.googleapis.com/techsauce-prod/ugc/uploads/2024/6/1718078240_800_f1.jpg" group-title="⚽SPORT2",F1 แข่งรถ
@@ -1592,6 +1609,34 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=901322&extens
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=http://line.tvdsz.cc/
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:72:72:A8&stream=901321&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="⚽SPORT2",ARENA Premium 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://lite1kh.com/
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171339
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="⚽SPORT2",ARENA Premium 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://lite1kh.com/
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171340
+
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="⚽SPORT2",ARENA Premium 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=http://lite1kh.com/
+http://lite1kh.com:80/190799414865/CDt6HaugYo2jLWl/171341
+
+
+
+
+
+
+
+
+
+
+
 
 
 
