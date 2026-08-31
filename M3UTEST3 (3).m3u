@@ -1902,6 +1902,28 @@ http://dootvz.ddns.net:25461/live/skycos3/aa2233/32.m3u8
 #EXTVLCOPT:http-referrer=https://dc1644a9jazgj.cloudfront.net/
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 
+#EXTINF:-1 tvg-id="bein1" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein1 AR (ts)
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095//live/383301917192/909365136076/1547798.ts
+
+
+#EXTINF:-1 tvg-id="bein2" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein2 AR (ts)
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095//live/383301917192/909365136076/1547797.ts
+
+
+#EXTINF:-1 tvg-id="bein3" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein3 AR (ts)
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095//live/383301917192/909365136076/1547796.ts
+
+#EXTINF:-1 tvg-id="bein4" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein4 AR (ts)
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095//live/383301917192/909365136076/1547805.ts
+
+#EXTINF:-1 tvg-id="bein6" tvg-name="bein" tvg-logo="https://cdn.aptoide.com/imgs/e/9/9/e996f536ba0cd9cc6ea3cb7a13c2237b_icon.png" group-title="⚽SportBein",bein6 AR (ts)
+#EXTVLCOPT:http-referrer=http://tbtv.me/
+http://tbtv.me:2095//live/383301917192/909365136076/1547803.ts
+
 
 
 
