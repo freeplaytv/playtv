@@ -1465,39 +1465,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://st.depositphotos.com/1006472/1847/i/450/depositphotos_18478155-stock-photo-live-message.jpg" group-title="บอลสด",บอลสด
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/
-https://ealivefotex.com/maxsport8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://st.depositphotos.com/1006472/1847/i/450/depositphotos_18478155-stock-photo-live-message.jpg" group-title="บอลสด",บอลสด mutv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/
-https://ealivefotex.com/maxsport8/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://st.depositphotos.com/1006472/1847/i/450/depositphotos_18478155-stock-photo-live-message.jpg" group-title="บอลสด",บอลสด 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/
-https://cdn.wassupdawg.org/s/mst1_AQEAapP2DzaS5uVDR0PKkrQJbG8-BZNkRuSR5EBNjq1fVrk3KMlFpFzPfZjQZ7Icc2t5LXNwb3J0cy1wcmVtaWVyLWxlYWd1ZS11awAAAAAAAAAAXGixVLY45a9Nz7o3AVRIAMrw4JgO4TbY-N1eSsl3yfoVXn-1b3UxPnxvBcSwjcVcIk8gnhRscM_17RZNg19zN18QwxFtRblimKCjDjQMiAg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://st.depositphotos.com/1006472/1847/i/450/depositphotos_18478155-stock-photo-live-message.jpg" group-title="บอลสด",บอลสด monomax-sports3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/monomax-sports3/playlist.m3u8
-
-
-#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://cdn-sdotid.adg.id/images/899253fd-5bcc-42f4-8df4-9a0fa13ecf5a_980x980.png" group-title="บอลสด",สด 1
-https://ealivefotex.com/max2/index.m3u8
-
-#EXTINF:-1 tvg-name="Monomax 1" tvg-logo="https://cdn-sdotid.adg.id/images/899253fd-5bcc-42f4-8df4-9a0fa13ecf5a_980x980.png" group-title="บอลสด",สด 2
-https://silentpacketrelay.xyz/maxsport1/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://st.depositphotos.com/1006472/1847/i/450/depositphotos_18478155-stock-photo-live-message.jpg" group-title="บอลสด",บอลสด mutv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=http://tv.cloudcdn.me/
-http://tv.cloudcdn.me:80/live.ts?channelId=125434&uid=757&deviceMac=00:1A:79:04:55:C4
 
 
 #EXTINF:-1 tvg-logo="https://sporter.com.hr/images/kanal-tv-program/sportklub-hd-hrvatska-tv-program-uzivo.png" group-title="⚽SPORT2",SK 1 HD เทสนิส
