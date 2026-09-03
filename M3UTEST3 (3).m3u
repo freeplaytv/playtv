@@ -1461,12 +1461,11 @@
 
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts1.png" group-title="ช่องเทส",TRUE Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://warpdooball.net/
-https://cdn2.googlecdnforstreaming.live/tubtoeball/tsp1/playlist.m3u8
+#EXTVLCOPT:http-referrer=
+https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd1-2
 #EXTINF:-1 tvg-id="TrueSport1.th" tvg-name="TRUE Sport 1" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts1.png" group-title="ช่องเทส",TRUE Sport 1 sd
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
-https://movieproxy.tawatchai250958.workers.dev/hls?t=XP7qObX38o5913NJjTvC3KtQJiiL_2sm_BDl5p7nZ5tY5KXz0UIO3zjley-IakeUz_y33oXpaaYmocTHVIL1p3gJNieaovJ1elWDe0VVd52EBj6pfDpz6-DKmyez9tGfjgNsJ3q9liN-6S97_ox0JLTZZLoZw7UdSlXGAlPNszpJ_DtTXQMI7cdJa0gZOclqN8Fa_Uk7Iok0oRXgui5C1i1KM2DkmI2JLNTBk8r_uKQYwj-UwnJJS-4f24-BvpM3vn82AexVqpAJb3W6XQ&e=.ts
-
+https://movieproxy.tawatchai250958.workers.dev/watch?id=truesporthd1
 ### ---------------- TRUE Sport 2
 #EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://raw.githubusercontent.com/babygen-sys/yut/main/ts2.png" group-title="ช่องเทส",TRUE Sport 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
