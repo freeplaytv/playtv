@@ -1505,10 +1505,12 @@ https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 
 
+#EXTINF:-1 tvg-logo="https://www.tvdigitalwatch.com/wp-content/uploads/2026/01/AF-2026-treu-vision-now.jpg" group-title="ช่องเทส",true-af
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m-fixer.net/
+https://edge-1.m-fixer.net:8092/stream/inw/true-af/master.m3u8
 
-
-
-
+#-----------------------------------------------------------------------------------------------------------------------------------------
 
 
 #EXTINF:-1 tvg-logo="https://sporter.com.hr/images/kanal-tv-program/sportklub-hd-hrvatska-tv-program-uzivo.png" group-title="⚽SPORT2",SK 1 HD เทสนิส
