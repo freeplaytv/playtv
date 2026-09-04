@@ -1442,18 +1442,6 @@
 
 
 
-#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://static.ch7.com/images/theme2023/one-lumpini/one.jpg" group-title="มวยไทย",ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://24goals.com/
-https://ealivefotex.com/hd7/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-id="TrueSport2.th" tvg-name="TRUE Sport 2" tvg-logo="https://static.ch7.com/images/theme2023/one-lumpini/one.jpg" group-title="มวยไทย",ONE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://full24th.com/
-https://ipc-vr5-smos.shop/hd7/tracks-v1a1/mono.m3u8
-
-
 
 
 
@@ -1512,10 +1500,7 @@ https://cdn1.googlecdnforstreaming.live/live/bein1/playlist.m3u8
 http://api.plus-server.sbs/play.php?key=1234&ch=truesportsd7
 
 
-#EXTINF:-1 tvg-logo="https://www.tvdigitalwatch.com/wp-content/uploads/2026/01/AF-2026-treu-vision-now.jpg" group-title="ช่องเทส",true-af
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m-fixer.net/
-https://edge-1.m-fixer.net:8092/stream/inw/true-af/master.m3u8
+
 
 #-----------------------------------------------------------------------------------------------------------------------------------------
 
